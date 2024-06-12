@@ -90,7 +90,7 @@ This project simulates a simple banking system using JavaScript. It includes fun
    ![Add Interest Action](Screenshots/5.png)
 
 ### Account Details Action:
-   ![Account Details Action](Screenshots/1.png)
+   ![Account Details Action](Screenshots/6.png)
 
 
 ## Conclusion
