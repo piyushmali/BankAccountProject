@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Banking Account</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bank Account Simulator</h1>
+        <div class="account-info">
+            <p>Account Balance: <span id="balance">0</span></p>
+        </div>
+        <div class="actions">
+            <div class="action">
+                <h2>Deposit</h2>
+                <input type="number" id="depositAmount" placeholder="Amount">
+                <button onclick="deposit()">Deposit</button>
+            </div>
+            <div class="action">
+                <h2>Withdraw</h2>
+                <input type="number" id="withdrawAmount" placeholder="Amount">
+                <button onclick="withdraw()">Withdraw</button>
+            </div>
+            <div class="action">
+                <h2>Transfer</h2>
+                <input type="number" id="transferAmount" placeholder="Amount">
+                <input type="text" id="transferTo" placeholder="To Account">
+                <button onclick="transfer()">Transfer</button>
+            </div>
+            <div class="action">
+                <h2>Add Interest</h2>
+                <input type="number" id="interestRate" placeholder="Interest Rate (%)">
+                <button onclick="addInterest()">Add Interest</button>
+            </div>
+            <div class="action">
+                <h2>Get Account Details</h2>
+                <button onclick="getAccountDetails()">Get Details</button>
+                <pre id="accountDetails"></pre>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
