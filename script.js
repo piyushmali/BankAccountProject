@@ -45,7 +45,6 @@ class BankAccount {
     }
 }
 
-// Create two sample accounts for transfer demonstration
 let account1 = new BankAccount(1);
 let account2 = new BankAccount(2);
 
