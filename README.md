@@ -77,19 +77,19 @@ This project simulates a simple banking system using JavaScript. It includes fun
 
 ## Screenshots
 
-###Deposit Action:
+### Deposit Action:
    ![Deposit Action](Screenshots/1.png)
 
-###Withdraw Action:
+### Withdraw Action:
    ![Withdraw Action](Screenshots/2.png)
 
-###Transfer Action:
+### Transfer Action:
    ![Transfer Action](Screenshots/3.png)
 
-###Add Interest Action:
+### Add Interest Action:
    ![Add Interest Action](Screenshots/4.png)
 
-###Account Details Action:
+### Account Details Action:
    ![Account Details Action](Screenshots/5.png)
 
 
