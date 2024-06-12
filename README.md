@@ -3,10 +3,6 @@
 ## Overview
 This project simulates a simple banking system using JavaScript. It includes functionalities to deposit, withdraw, transfer funds, add interest, and retrieve account details. The user interface is built with HTML and CSS.
 
-## Repository Information
-- **GitHub Account**: [piyushmali](https://github.com/piyushmali)
-- **Project Repository**: [BankAccountProject](https://github.com/piyushmali/BankAccountProject)
-
 ## Project Structure
 
 ### Files
